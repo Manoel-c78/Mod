@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="vassouramod"
+version="1.0.0"
+displayName="Vassoura Voadora Mod"
+authors="SeuNome"
+description="Adiciona uma vassoura voadora controlavel ao Minecraft 1.20.1."

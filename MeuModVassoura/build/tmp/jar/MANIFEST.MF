@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: vassouramod
+Specification-Vendor: YourNameHere, OtherNameHere
+Specification-Version: 1
+Implementation-Title: MeuModVassoura
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourNameHere, OtherNameHere
+Implementation-Timestamp: 2026-10-11T21:41:02-0300
+
